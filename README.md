@@ -37,10 +37,8 @@ This dashboard was designed to support executive and HR decision-making by deliv
 - Average Salary
 - Saudization Rate (Target vs Actual)
 - Gender & Nationality Distribution
+<img width="1163" height="646" alt="image" src="https://github.com/user-attachments/assets/1d8f32e2-f4a6-402d-98fe-84f1f70a3af8" />
 
-<img width="1391" height="774" alt="HR Overview" src="https://github.com/user-attachments/assets/6e4411d5-e35f-4152-8c0d-3bfc6018c0e2" />
-
----
 
 ### 2️⃣ Workforce Distribution
 - Employees by Department
@@ -49,9 +47,7 @@ This dashboard was designed to support executive and HR decision-making by deliv
 - Age Group Analysis
 - Department Salary Comparison
 
-<img width="1375" height="775" alt="Workforce Distribution" src="https://github.com/user-attachments/assets/40344b19-db6e-44c9-a04e-7b7ec8487c50" />
-
----
+<img width="1160" height="644" alt="image" src="https://github.com/user-attachments/assets/8f50cbaa-a606-40ed-975f-ca3d848ae117" />
 
 ### 3️⃣ Leave Management Analytics
 - Employees Who Took Leave
@@ -62,9 +58,8 @@ This dashboard was designed to support executive and HR decision-making by deliv
 - Monthly Leave Trend
 - Top Employees by Leave Count
 
-<img width="1401" height="773" alt="Leave Dashboard" src="https://github.com/user-attachments/assets/183cb69e-4972-4074-97f4-8b85040beeeb" />
+<img width="1159" height="651" alt="image" src="https://github.com/user-attachments/assets/e700854d-b957-4b3e-ab39-9c01403e9215" />
 
----
 
 ## 📈 Key Performance Indicators (KPIs)
 
@@ -76,11 +71,7 @@ This dashboard was designed to support executive and HR decision-making by deliv
 - Saudization %
 - Department Distribution Metrics
 
----
-
 ## 🗂 Repository Structure
-
----
 
 ## 👩‍💻 Author
 
